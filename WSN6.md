@@ -44,7 +44,7 @@
 
 5G is a revolutionary technology transforming the way we live, work, and connect. Its key benefits include ultra-fast speeds, low latency, massive capacity, and improved reliability. These benefits will enable a wide range of new applications and services across various sectors.
 
-### 5G(NR):
+## 5G(NR)
 
 5G NR, or 5G New Radio, represents the air interface standard for the next generation of mobile networks. It is a key component of the 5G ecosystem, defining how devices communicate over the wireless medium. 5G NR introduces several technological advancements to enable faster data transfer rates, lower latency, and improved connectivity. One notable feature is the utilization of higher frequency bands, including millimeter waves, to unlock larger bandwidths for increased data capacity. Massive MIMO (Multiple Input, Multiple Output) technology with a multitude of antennas is also integrated into 5G NR, enhancing spectral efficiency and network performance. Additionally, beamforming techniques are employed to focus radio signals in specific directions, optimizing coverage and signal strength. 5G NR is designed to support a diverse range of applications, from enhanced mobile broadband to critical machine-type communication, making it a foundational element in the evolution of wireless communication networks.
 ---

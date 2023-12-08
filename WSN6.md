@@ -146,3 +146,56 @@ Despite challenges, HMIMOS surfaces have the potential to revolutionize 6G wirel
 ---
 ---
 ---
+
+
+# Simultaneous Transmission and Reflection (STAR) for 360° Coverage
+
+**Problem:** Traditional Reflecting Intelligent Surfaces (RISs) only reflect incident signals, limiting their coverage area to one side.
+
+**Solution:** Simultaneous Transmission and Reflection (STAR) RISs address this limitation by enabling both transmission and reflection of signals. This allows for 360° coverage, providing multiple benefits:
+
+**1. Increased Coverage:** By transmitting and reflecting signals, STAR-RISs can extend their coverage area to all sides, significantly improving connectivity in shadowed areas and around obstacles. This is particularly beneficial for outdoor applications, dense deployments, and scenarios with limited infrastructure.
+
+**2. Enhanced Capacity:** With two modes of operation (transmission and reflection), STAR-RISs can serve more users simultaneously, leading to increased network capacity. This is crucial for supporting the ever-growing demand for data and diverse applications in future wireless networks.
+
+**3. Improved Spectrum Efficiency:** By dynamically controlling the transmission and reflection coefficients of individual elements, STAR-RISs can efficiently utilize the available spectrum resources. This allows for more efficient data transmission and reduced interference.
+
+**4. Flexibility and Adaptability:** STAR-RISs offer greater flexibility and adaptability compared to traditional RISs. The independent control of transmission and reflection allows for dynamic manipulation of the signal propagation environment, tailoring the coverage and capacity to specific user needs and network conditions.
+
+**5. New Applications:** STAR-RISs enable a wide range of new applications that were not possible with traditional RISs. These applications include mobile edge computing, holographic communication, and immersive experiences.
+
+**Details of STAR-RIS operation:**
+
+* **Reconfigurable elements:** Each element of a STAR-RIS is equipped with two independent coefficients, one for transmission and one for reflection. These coefficients can be dynamically adjusted to control the behavior of the element.
+* **Protocols:** Different protocols can be implemented to control the operation of STAR-RISs, such as:
+    * **Energy splitting:** Divides the incident signal energy between transmission and reflection.
+    * **Mode switching:** Switches between transmission and reflection modes based on specific conditions.
+    * **Time switching:** Allocates different time slots for transmission and reflection.
+* **Hardware considerations:** STAR-RISs require additional hardware components compared to traditional RISs, such as power amplifiers for transmission and additional circuitry for controlling the transmission and reflection coefficients.
+
+**Benefits of STAR-RIS:**
+
+* 360° coverage
+* Increased capacity
+* Improved spectrum efficiency
+* Flexibility and adaptability
+* Enables new applications
+
+**Challenges of STAR-RIS:**
+
+* Increased hardware complexity
+* Higher power consumption
+* Need for advanced protocols and control algorithms
+
+**Conclusion:**
+
+STAR-RIS is a promising technology with the potential to significantly improve the performance and capabilities of future wireless networks. Its ability to provide 360° coverage, increased capacity, and improved spectrum efficiency will be crucial for enabling next-generation wireless applications and services.
+
+**Key points for your exam:**
+
+* STAR-RISs transmit and reflect signals, enabling 360° coverage.
+* This provides increased capacity, improved spectrum efficiency, and flexibility.
+* STAR-RISs use reconfigurable elements with independent coefficients for transmission and reflection.
+* Several protocols can be used to control STAR-RIS operation.
+* STAR-RISs have the potential to revolutionize future wireless networks.
+
